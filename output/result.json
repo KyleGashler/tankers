@@ -1,0 +1,62 @@
+[
+  {
+    "vehicleId": "vehicle_0",
+    "vehicleInfo": "BMW X5",
+    "transactions": [
+      {
+        "gallons": 25,
+        "truckId": "truck_1",
+        "containerId": "FRONT"
+      }
+    ]
+  },
+  {
+    "vehicleId": "vehicle_1",
+    "vehicleInfo": "Ford F-150",
+    "transactions": [
+      {
+        "gallons": 40,
+        "truckId": "truck_1",
+        "containerId": "FRONT"
+      }
+    ]
+  },
+  {
+    "vehicleId": "vehicle_2",
+    "vehicleInfo": "U-Haul 17ft Trailer",
+    "transactions": [
+      {
+        "gallons": 85,
+        "truckId": "truck_1",
+        "containerId": "FRONT"
+      },
+      {
+        "gallons": 15,
+        "truckId": "truck_1",
+        "containerId": "BACK"
+      }
+    ]
+  },
+  {
+    "vehicleId": "vehicle_3",
+    "vehicleInfo": "Mercedes Tour Bus",
+    "transactions": [
+      {
+        "gallons": 30,
+        "truckId": "truck_1",
+        "containerId": "BACK"
+      }
+    ]
+  },
+  {
+    "vehicleId": "vehicle_4",
+    "vehicleInfo": "Toyota RAV-4",
+    "transactions": [
+      {
+        "gallons": 15,
+        "truckId": "truck_1",
+        "containerId": "BACK"
+      }
+    ]
+  }
+]

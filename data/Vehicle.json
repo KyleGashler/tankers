@@ -1,0 +1,21 @@
+[{
+  "_id": "vehicle_0",
+  "info": "BMW X5",
+  "gallons": 25
+}, {
+  "_id": "vehicle_1",
+  "info": "Ford F-150",
+  "gallons": 40
+}, {
+  "_id": "vehicle_2",
+  "info": "U-Haul 17ft Trailer",
+  "gallons": 100
+}, {
+  "_id": "vehicle_3",
+  "info": "Mercedes Tour Bus",
+  "gallons": 30
+}, {
+  "_id": "vehicle_4",
+  "info": "Toyota RAV-4",
+  "gallons": 15
+}]

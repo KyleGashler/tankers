@@ -1,0 +1,16 @@
+[{
+  "_id": "UPPER",
+  "truckId": "truck_0",
+  "capacity": 500,
+  "currentLevel": 0
+}, {
+  "_id": "FRONT",
+  "truckId": "truck_1",
+  "capacity": 150,
+  "currentLevel": 150
+}, {
+  "_id": "BACK",
+  "truckId": "truck_1",
+  "capacity": 100,
+  "currentLevel": 100
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": "load_0",
+  "source": "Chevron",
+  "truckId": "truck_1",
+  "containerId": "FRONT",
+  "gallons": 100,
+  "pricePerGallon": 4.5
+}, {
+  "_id": "load_1",
+  "source": "Costco",
+  "truckId": "truck_1",
+  "containerId": "FRONT",
+  "gallons": 50,
+  "pricePerGallon": 3
+}, {
+  "_id": "load_2",
+  "source": "Shell",
+  "truckId": "truck_1",
+  "containerId": "BACK",
+  "gallons": 100,
+  "pricePerGallon": 2
+}]

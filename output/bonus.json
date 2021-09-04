@@ -1,0 +1,114 @@
+[
+  {
+    "vehicleId": "vehicle_0",
+    "vehicleInfo": "BMW X5",
+    "transactions": [
+      {
+        "gallons": 25,
+        "truckId": "truck_1",
+        "containerId": "FRONT",
+        "priceBreakdown": [
+          {
+            "loadId": "load_0",
+            "gallons": 25,
+            "pricePerGallon": 4.5
+          }
+        ]
+      }
+    ],
+    "costBasis": 4.5
+  },
+  {
+    "vehicleId": "vehicle_1",
+    "vehicleInfo": "Ford F-150",
+    "transactions": [
+      {
+        "gallons": 40,
+        "truckId": "truck_1",
+        "containerId": "FRONT",
+        "priceBreakdown": [
+          {
+            "loadId": "load_0",
+            "gallons": 40,
+            "pricePerGallon": 4.5
+          }
+        ]
+      }
+    ],
+    "costBasis": 4.5
+  },
+  {
+    "vehicleId": "vehicle_2",
+    "vehicleInfo": "U-Haul 17ft Trailer",
+    "transactions": [
+      {
+        "gallons": 85,
+        "truckId": "truck_1",
+        "containerId": "FRONT",
+        "priceBreakdown": [
+          {
+            "loadId": "load_0",
+            "gallons": 35,
+            "pricePerGallon": 4.5
+          },
+          {
+            "loadId": "load_1",
+            "gallons": 50,
+            "pricePerGallon": 3
+          }
+        ]
+      },
+      {
+        "gallons": 15,
+        "truckId": "truck_1",
+        "containerId": "BACK",
+        "priceBreakdown": [
+          {
+            "loadId": "load_2",
+            "gallons": 15,
+            "pricePerGallon": 2
+          }
+        ]
+      }
+    ],
+    "costBasis": 3.375
+  },
+  {
+    "vehicleId": "vehicle_3",
+    "vehicleInfo": "Mercedes Tour Bus",
+    "transactions": [
+      {
+        "gallons": 30,
+        "truckId": "truck_1",
+        "containerId": "BACK",
+        "priceBreakdown": [
+          {
+            "loadId": "load_2",
+            "gallons": 30,
+            "pricePerGallon": 2
+          }
+        ]
+      }
+    ],
+    "costBasis": 2
+  },
+  {
+    "vehicleId": "vehicle_4",
+    "vehicleInfo": "Toyota RAV-4",
+    "transactions": [
+      {
+        "gallons": 15,
+        "truckId": "truck_1",
+        "containerId": "BACK",
+        "priceBreakdown": [
+          {
+            "loadId": "load_2",
+            "gallons": 15,
+            "pricePerGallon": 2
+          }
+        ]
+      }
+    ],
+    "costBasis": 2
+  }
+]
